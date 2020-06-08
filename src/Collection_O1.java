@@ -9,7 +9,7 @@
    d) getRandom */
 import java.util.*;
 
-// class to represent the required data structure
+// class to represent the required O(1) data structure
 public class Collection_O1 implements Collection_Interface
 {
     ArrayList<Integer> arr;   // A resizable array
